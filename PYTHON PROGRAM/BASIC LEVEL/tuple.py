@@ -1,0 +1,6 @@
+tuple=(99,90,98,89,87)
+print(tuple)
+print(tuple.count(90))
+print(tuple.index(98))
+tuple.insert(0,94)
+print(tuple)

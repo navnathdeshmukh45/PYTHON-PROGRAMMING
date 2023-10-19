@@ -1,0 +1,11 @@
+list = ["name",3,4,5,5,5,5,7]
+print(list)
+print(list[0])
+print(list[1])
+print(list)
+list.append("ram")
+print(list)
+list.insert(0,"navnath")
+print(list)
+list.remove("ram")
+print(list)
