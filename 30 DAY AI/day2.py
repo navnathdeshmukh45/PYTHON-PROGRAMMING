@@ -1,4 +1,4 @@
-# python program write 
+# python program write
 # 1.vs code
 # 2.idel python
 # 3.colab
