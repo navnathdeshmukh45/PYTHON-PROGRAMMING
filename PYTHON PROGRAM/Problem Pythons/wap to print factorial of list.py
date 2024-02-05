@@ -12,4 +12,4 @@ while c=="y" or c=="Y":
         for j in range(1,i+1):
             f=f*j
 fa.append(f)
-print("the factorial of each element  is :",F)
+print("the factorial of each element  is :",f)
